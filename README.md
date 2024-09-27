@@ -22,11 +22,13 @@ IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua p
     f) 2,10, 12, 16, 17, 18, 19, ____
 
 **R:**  
+
     a) 9 (numeros impares)
     b) 128 (2^n)
     c) 49 (n²)
     d) 100 (n par²)
     e) 13 (Fibonacci)
     f) 20
+    
 ### 5) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada. Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?  
 **R:** Deve-se ligar uma lâmpada e esperar o suficiente para que ela fiquei quente. Em seguida apagar e ligar outra e ir para uma sala qualquer. Caso esteja ligada, é do segundo interruptor, caso esteja quente, do primeiro, se não do terceiro. Assim descobre-se qual interruptor pertence àquele quarto, em seguida acenda a lâmpada de outro interruptor e deixe apagada a do que restar e entre em outro quarto, assim é possível descobrir qual lâmpada pertence a qual quarto.
